@@ -1,1 +1,1 @@
-# Data-Science-Projects related stuffs are shared here
+# Data-Science-Projects related stuffs are shared here.
